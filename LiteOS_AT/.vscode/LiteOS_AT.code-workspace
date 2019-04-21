@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "F:\\jiejieTop\\LiteOS_AT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_button.h": "c",
+			"stm32f1xx.h": "c",
+			"bsp_usart.h": "c",
+			"button_task.h": "c",
+			"bsp_led.h": "c"
+		}
+	}
+}

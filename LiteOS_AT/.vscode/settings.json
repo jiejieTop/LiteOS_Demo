@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_button.h": "c",
+        "stm32f1xx.h": "c",
+        "bsp_usart.h": "c"
+    }
+}
